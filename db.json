@@ -41,6 +41,36 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "dndijfnw",
+      "image": "dofjnwdojn",
+      "price": 5,
+      "id": 8
+    },
+    {
+      "name": "sgonfeo",
+      "image": "norgnero",
+      "price": 8,
+      "id": 9
+    },
+    {
+      "name": "test",
+      "image": "./assets/ramen/nirvana.jpg",
+      "price": 5,
+      "id": 10
+    },
+    {
+      "name": "hello",
+      "image": "howdy",
+      "price": 5,
+      "id": 11
+    },
+    {
+      "name": "rtgjinweijn",
+      "image": "ijndfijwen",
+      "price": 5,
+      "id": 12
     }
   ]
 }
